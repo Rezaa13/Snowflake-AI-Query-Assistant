@@ -1,0 +1,25 @@
+# Core dependencies
+snowflake-connector-python==3.7.0
+pandas==2.0.3
+numpy==1.24.3
+cryptography==41.0.7
+
+# AI/ML dependencies
+openai==1.12.0
+langchain==0.1.10
+langchain-openai==0.0.8
+transformers==4.36.2
+torch==2.1.2
+
+# Utility dependencies
+python-dotenv==1.0.0
+pydantic==2.5.0
+click==8.1.7
+rich==13.7.0
+loguru==0.7.2
+
+# Development dependencies
+pytest==7.4.3
+black==23.12.1
+flake8==6.1.0
+mypy==1.8.0
