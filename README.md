@@ -10,6 +10,11 @@ A powerful AI agent that can interact with Snowflake data warehouses using natur
 - Rich formatting of query results
 - Interactive CLI interface
 
+## PipeLine
+
+<img width="4170" height="2970" alt="snowchat_clean_architecture" src="https://github.com/user-attachments/assets/8df57a9c-5a34-4144-b9fb-b7f40d20588f" />
+
+
 ## Setup
 
 1. **Install dependencies:**
