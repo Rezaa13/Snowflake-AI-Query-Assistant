@@ -1,6 +1,6 @@
 # Snowflake AI Agent
 
-A powerful AI agent that can interact with Snowflake data warehouses using natural language queries.
+A powerful AI agent that can interact with Snowflake data warehouses using natural language queries. Snowflake helped to organize and make data pipelines. 
 
 ## Features
 
